@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog de Tecnología</title>
+    <link>https://blogtecnologia.com</link>
+    <description>Novedades sobre tecnología, IA y desarrollo web</description>
+    <language>es</language>
+    <pubDate>Fri, 12 Apr 2024 12:00:00 GMT</pubDate>
+
+    <item>
+      <title>¿Qué es la inteligencia artificial?</title>
+      <link>https://blogtecnologia.com/ia-introduccion</link>
+      <description>Una explicación sencilla sobre la IA y su impacto actual.</description>
+      <pubDate>Fri, 12 Apr 2024 12:00:00 GMT</pubDate>
+      <category>Tecnología</category>
+    </item>
+
+    <item>
+      <title>Top 5 editores de código en 2024</title>
+      <link>https://blogtecnologia.com/editores-2024</link>
+      <description>Una comparación entre VS Code, Sublime, Atom y más.</description>
+      <pubDate>Thu, 11 Apr 2024 10:30:00 GMT</pubDate>
+      <category>Desarrollo</category>
+    </item>
+
+  </channel>
+</rss>
